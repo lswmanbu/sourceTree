@@ -10,6 +10,6 @@ package per.lsw.controller;
 public class AppController {
 	
 	public void test() {
-		System.out.println("test...");
+		System.out.println("master is running...");
 	}
 }
