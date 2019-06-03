@@ -11,5 +11,6 @@ public class AppController {
 	
 	public void test() {
 		System.out.println("master is running...");
+		System.out.println("master second push");
 	}
 }
